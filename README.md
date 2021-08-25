@@ -2,9 +2,9 @@
 
 
 **Funções:**
-criação de usuário - integrado ao banco de dados MySQL;
+registro de novos usuários - integrado ao banco de dados MySQL;
 
-autenticação de login e por pagina utilizando JSON Web Token;
+autenticação de login utilizando JSON Web Token;
 
 busca por notícias cadastradas no banco de dados (MySQL);
 
