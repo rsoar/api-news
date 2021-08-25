@@ -1,4 +1,4 @@
-### api rest desenvolvida utilizando Node
+## API rest desenvolvida utilizando Node e ESLint para organização do projeto
 
 
 **Funções:**
@@ -8,4 +8,7 @@ autenticação de login utilizando JSON Web Token;
 
 busca por notícias cadastradas no banco de dados (MySQL);
 
-criar, editar e apagar notícia cadastrada (somente para usuarios autenticados);
+criar, editar e apagar notícias no portal (somente para usuarios autenticados);
+
+
+
