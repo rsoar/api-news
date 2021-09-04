@@ -1,4 +1,4 @@
-## API rest desenvolvida utilizando Node e ESLint para organização do projeto
+## API rest desenvolvida utilizando Node e ESLint para padronização do código
 
 
 **Funções:**
